@@ -7,5 +7,8 @@
   },
   "author": "izad madi bacar",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
 }
