@@ -31,4 +31,3 @@ server.listen(port, () => {
     const date = new Date();
     console.log(date.toLocaleDateString(), '' , date.toLocaleTimeString(), " - Le serveur est activé au port :", port);
 });
-
